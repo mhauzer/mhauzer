@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhauzer
+- 👋 Hi, I’m Michał Hauzer
 - 👀 I’m interested in Natural Language Processing, Time Management & Document Management
 - 🌱 I’m currently learning Scala
 - 📫 How to reach me: write me an [email](mailto:mhauzer@gmail.com)
