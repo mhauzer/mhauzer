@@ -2,7 +2,7 @@
 - :notebook_with_decorative_cover: My blog: [Down the Rabbit Hole](https://gist.io/@mhauzer/7a1470d771daf5282320cbf8646bc3ef)
 - 👀 I’m interested in Natural Language Processing, Time Management & Document Management
 - 🌱 I’m currently learning Scala
-- 📫 Catch me on [Twitter](https://twitter.com/MichalHauzer)
+- 📫 Catch me on [Twitter](https://twitter.com/MichalHauzer) or [write me an email](mailto:mhauzer@gmail.com)
 
 <!---
 mhauzer/mhauzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
